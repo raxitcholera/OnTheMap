@@ -6,7 +6,7 @@ This Swift app uses Udacity login REST api and Parse REST api to acquire a list 
 
 ----------
 
-**Note:**Please run the program using the OnTheMap.xcodeproj file.
+**Note: Please run the program using the OnTheMap.xcodeproj file.**
 
 
 Use Case
